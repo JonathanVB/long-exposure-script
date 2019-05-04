@@ -6,4 +6,4 @@ They're just python scripts. In detail:
 
 * Install python 3.x
 * Install python's imageio library: (`python -m pip install imageio`)
-* Run the .py script with the video as the first parameter, and the output image as the second (`python <script_name>.py <video-file> <image-to-be-created>`
+* Run the .py script with the video as the first parameter, and the output image as the second (`python <script_name>.py <video-file> <image-to-be-created>`)
